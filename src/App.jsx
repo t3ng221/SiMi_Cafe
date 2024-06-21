@@ -3,6 +3,7 @@ import "aos/dist/aos.css";
 import Navbar from "./components/Navbar/Navbar";
 import React from "react";
 import Home from "./components/Home/Home";
+import Item from "./components/Items/Item";
 
 const App = () => {
   React.useEffect(() => {
@@ -18,6 +19,7 @@ const App = () => {
     <div className="bg-white dark:bg-gray-900 dark:text-white duration-200 overflow-x-hidden">
       <Navbar />
       <Home />
+      <Item />
     </div>
   );
 };

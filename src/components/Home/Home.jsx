@@ -1,4 +1,3 @@
-
 import HomeImage from "../../assets/coffee2.png";
 
 const Home = () => {
@@ -39,7 +38,7 @@ const Home = () => {
               <img
                 data-aos-once="true"
                 src={HomeImage}
-                className="w-[300px] sm:w-[450px] sm:scale-125 mx-auto spin "
+                className="w-[300px] sm:w-[450px] sm:scale-125 mx-auto  "
               />
               <div
                 data-aos="fade-left"
