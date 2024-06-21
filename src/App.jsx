@@ -1,7 +1,8 @@
 import AOS from "aos";
 import "aos/dist/aos.css";
-import Navbar from "./components/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 import React from "react";
+import Home from "./components/Home/Home";
 
 const App = () => {
   React.useEffect(() => {
@@ -16,6 +17,7 @@ const App = () => {
   return (
     <div className="bg-white dark:bg-gray-900 dark:text-white duration-200 overflow-x-hidden">
       <Navbar />
+      <Home />
     </div>
   );
 };
