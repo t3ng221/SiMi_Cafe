@@ -4,7 +4,7 @@ This is a frontend design for a cafe website built using React.js, Tailwind CSS,
 
 ## Demo
 
-You can check out a live demo of the project [here](#).
+You can check out a live demo of the project [here](https://simi-cafe.netlify.app/).
 
 ## Features
 
@@ -27,9 +27,9 @@ To get started with the project, follow these steps:
 1. **Clone the repository:**
 
 2. **Install the dependencies:**
-    ```sh
-    npm install
-    ```
+   ```sh
+   npm install
+   ```
 
 ## Usage
 
@@ -37,3 +37,4 @@ To run the development server, use the following command:
 
 ```sh
 npm run dev
+```
