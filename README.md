@@ -1,7 +1,5 @@
 # Simi Cafe
 
-# Cafe Frontend Design
-
 This is a frontend design for a cafe website built using React.js, Tailwind CSS, and AOS (Animate On Scroll) library. The project aims to provide a visually appealing and responsive user interface for a cafe's online presence.
 
 ## Demo
