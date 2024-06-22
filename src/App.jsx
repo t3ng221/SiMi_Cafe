@@ -4,6 +4,10 @@ import Navbar from "./components/Navbar/Navbar";
 import React from "react";
 import Home from "./components/Home/Home";
 import Item from "./components/Items/Item";
+import Banner1 from "./components/Banner/Banner1";
+import Banner2 from "./components/Banner/Banner2";
+import Testimonials from "./components/Testimonials/Textimonials";
+import Footer from "./components/Footer/Footer";
 
 const App = () => {
   React.useEffect(() => {
@@ -20,6 +24,10 @@ const App = () => {
       <Navbar />
       <Home />
       <Item />
+      <Banner1 />
+      <Banner2 />
+      <Testimonials />
+      <Footer />
     </div>
   );
 };
