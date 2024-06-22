@@ -1,8 +1,41 @@
-# React + Vite
+# Simi Cafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Cafe Frontend Design
 
-Currently, two official plugins are available:
+This is a frontend design for a cafe website built using React.js, Tailwind CSS, and AOS (Animate On Scroll) library. The project aims to provide a visually appealing and responsive user interface for a cafe's online presence.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Demo
+
+You can check out a live demo of the project [here](#).
+
+## Features
+
+- Responsive design
+- Animated scrolling effects
+- Interactive UI components
+- Modern and clean design
+- Easy to customize
+
+## Technologies Used
+
+- [React.js](https://reactjs.org/) - A JavaScript library for building user interfaces
+- [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework
+- [AOS](https://michalsnik.github.io/aos/) - Animate On Scroll library for adding scroll animations
+
+## Installation
+
+To get started with the project, follow these steps:
+
+1. **Clone the repository:**
+
+2. **Install the dependencies:**
+    ```sh
+    npm install
+    ```
+
+## Usage
+
+To run the development server, use the following command:
+
+```sh
+npm run dev
